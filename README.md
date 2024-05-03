@@ -30,9 +30,10 @@ The dataset used in this project can be found at the following link: [Amazon Sal
 To reproduce the projects, follow these steps:
 
 1. Download the dataset from the provided links.
-2. Ensure you have the necessary Python packages installed.
-3. Execute the notebooks or scripts in each chapter in the indicated order.
-4. Analyze the results and conclusions presented in each section.
+2. Ensure that the raw data is located in the same directory as the notebook.
+3. Install the necessary Python packages.
+4. Execute the notebooks or scripts in each chapter in the indicated order.
+5. Analyze the results and conclusions presented in each section.
 
 ## Author
 Julio Cesar Yamashita Martins - Developer and Data Scientist
