@@ -12,31 +12,6 @@ Come to an adventure into the world of movie recommendations with our project, w
 ## Dataset
 The dataset used in this project can be found at the following link: [Disney Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
 
-## Summary
-
-### Chapter 1: Exploratory and Statistical Analysis
-- 1.1: Importing Data and First Look
-- 1.2: Checking Null Values
-- 1.3: Checking Data Types
-- 1.4: Final Data Analysis
-
-### Chapter 2: Data Processing
-- 2.1: Separating the Important Columns
-- 2.2: Removing Spaces
-- 2.3: Tag Generation
-- 2.4: Handling Extra Columns
-
-### Chapter 3: Building Recommendation Model
-- 3.1: Stop Words
-- 3.2: Stemming
-- 3.3: CountVectorizer
-- 3.4: Cosine Similarity
-- 3.5: Creating a Movie Recommendation System
-
-### Chapter 4: Tests and Conclusions
-- Final Tests and Conclusion of The Project
-
-
 # Amazon Recommendation System
 
 ## Introduction
@@ -45,31 +20,11 @@ Welcome to the Amazon Recommendation System project! This project is about the d
 ## Dataset
 The dataset used in this project can be found at the following link: [Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 
-## Summary
-
-### Chapter 1: Exploratory and Statistical Analysis
-- 1.1: Importing Data and First Look
-- 1.2: Checking Data Types
-- 1.3: Checking Null Values
-- 1.4: Checking Undesired Values
-
-### Chapter 2: Data Processing
-- 2.1: Separating the Important Columns
-- 2.2: Handling Null Values
-- 2.3: Handling Undesired Values
-- 2.4: Handling Columns Types
-- 2.5: Tags Generation
-- 2.6: Handling 'http' Tags
-
-### Chapter 3: Building Recommendation Model
-- 3.1: Stop Words
-- 3.2: Stemming
-- 3.3: Count Vectorizer
-- 3.4: Cosine Similarity
-- 3.5: Creating a Product Recommendation System
-
-### Chapter 4: Tests and Conclusions
-- Final Tests and Conclusions of The Project
+# Required Packages
+- pandas
+- numpy
+- nltk
+- scikit-learn
 
 ## How to Use
 To reproduce the projects, follow these steps:
@@ -78,9 +33,6 @@ To reproduce the projects, follow these steps:
 2. Ensure you have the necessary Python packages installed.
 3. Execute the notebooks or scripts in each chapter in the indicated order.
 4. Analyze the results and conclusions presented in each section.
-
-## Contributions
-Contributions are welcome! If you find any issues or have suggestions to improve this project, feel free to open an issue or submit a pull request.
 
 ## Author
 Julio Cesar Yamashita Martins - Developer and Data Scientist
