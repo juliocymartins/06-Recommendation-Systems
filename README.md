@@ -37,6 +37,3 @@ To reproduce the projects, follow these steps:
 
 ## Author
 Julio Cesar Yamashita Martins - Developer and Data Scientist
-
-## E-mail
-yamashitajulio@gmail.com
