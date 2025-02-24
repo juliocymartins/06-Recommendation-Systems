@@ -2,8 +2,6 @@
 
 Dois sistemas de recomendação foram desenvolvidos aqui: um para o Disney Plus e outro para a Amazon. Ambos utilizam similaridade do cosseno para fornecer sugestões personalizadas aos usuários. O sistema do Disney Plus recomenda filmes com base em dados de filmes, enquanto o sistema da Amazon recomenda produtos com base em análises de avaliações e dados dos produtos.
 
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/22/3b/d3/223bd35787baf9b3693e15fb5e856958.gif">
-
 # Disney Plus Movie Sistema de Recomendações
 
 ## Introdução
