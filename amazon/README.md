@@ -5,3 +5,11 @@ Este projeto envolve o desenvolvimento de um sistema de recomendação utilizand
 
 ## Dataset
 O dataset utilizado se encontra no seguinte link: [Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
+
+# Repositórios
+- clean_data: Dados limpos criados no projeto.
+- visualization: Nuvem de palavras gerada durante o projeto.
+- amazon.csv: Dados brutos obtidos no kaggle.
+- amazon_recomendacoes.ipynb: Arquivo do Jupyter Notebook contendo o projeto completo.
+- amazon_recomendacoes(BERT).ipynb: Arquivo do Jupyter Notebook contendo o projeto original com algumas técnica modificadas e implementação do modelo de transformer BERT.
+- apresentacao_amazon_recomendacoes.pptx: Arquivo contendo uma apresentação feita no Power Point explicando o projeto.
