@@ -8,7 +8,7 @@ Este projeto envolve o desenvolvimento de um sistema de recomendação utilizand
 ## Dataset
 O dataset utilizado se encontra no seguinte link: [Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 
-# Repositórios
+## Repositórios
 - clean_data: Dados limpos criados no projeto.
 - visualization: Nuvem de palavras gerada durante o projeto.
 - amazon.csv: Dados brutos obtidos no kaggle.
